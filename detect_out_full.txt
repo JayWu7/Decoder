@@ -1,0 +1,9 @@
+Total Phone amount is 1677
+Total wrong amount is 98, wrong rate is 0.058
+Total wrong phone amount is 4
+
+Wrong phone distribution:
+in1, 35
+iang3, 25
+iang2, 24
+j, 14
